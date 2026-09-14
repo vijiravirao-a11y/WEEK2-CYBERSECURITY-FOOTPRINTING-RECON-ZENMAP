@@ -121,7 +121,7 @@ Always obtain proper authorization before testing a system or network.
 
 ## 👤 Author
 
-**vijayalakshmi bai **
+** vijayalakshmi bai **
 
 Cybersecurity & Ethical Hacking Learner
 
